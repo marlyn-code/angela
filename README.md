@@ -1,2 +1,5 @@
 # angela  
-BSIT 3.1 C
+**Crush**
+1. Bada
+2. Hakken
+3. Shintaro
