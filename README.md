@@ -1,2 +1,2 @@
 # angela  
- Ang ganda ko
+I am 22 years old and currently studying BSIT at STI college batangas.
