@@ -3,5 +3,5 @@
 **STI**
 BSIT 3.1 C
 
-**SCNHS**
-**SCCS**
+1. **SCNHS**
+2. **SCCS**
